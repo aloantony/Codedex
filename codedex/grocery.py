@@ -1,0 +1,1 @@
+grocery = ['eggs', 'avocados', 'cookies', 'hot pepper jam', 'brocoli']
